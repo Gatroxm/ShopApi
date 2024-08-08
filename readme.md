@@ -1,6 +1,6 @@
-# Mercado Clone Backend
+# ShopApi Backend
 
-Este proyecto es un backend básico para un clon de MercadoLibre, desarrollado con Node.js y MongoDB. Los usuarios pueden registrarse, iniciar sesión, crear sus propias tiendas y subir productos a esas tiendas, con la posibilidad de categorizar los productos.
+Este proyecto es un backend básico desarrollado con Node.js y MongoDB. Los usuarios pueden registrarse, iniciar sesión, crear sus propias tiendas y subir productos a esas tiendas, con la posibilidad de categorizar los productos.
 
 ## Características
 
